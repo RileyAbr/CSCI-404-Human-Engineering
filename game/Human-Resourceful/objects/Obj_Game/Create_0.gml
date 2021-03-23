@@ -1,0 +1,1 @@
+global.currentRunScore = 0;
