@@ -1,4 +1,5 @@
 randomize(); // Sets a random seed for this gameplay loop. Comment this out if you need to test something
 
-alarm[0] = 10 * room_speed; // 1 minute
+var currentRunTimeLimitInSeconds = 10; // Currently set to 3 minutes
+alarm[0] = currentRunTimeLimitInSeconds * room_speed; 
 global.currentRunScore = 0;
