@@ -20,6 +20,7 @@
     {"id":{"name":"Background","path":"sprites/Background/Background.yy",},"order":4,},
     {"id":{"name":"Zone_B","path":"objects/Zone_B/Zone_B.yy",},"order":1,},
     {"id":{"name":"Font_Menu_Attribution","path":"fonts/Font_Menu_Attribution/Font_Menu_Attribution.yy",},"order":2,},
+    {"id":{"name":"Obj_ClickToEnd","path":"objects/Obj_ClickToEnd/Obj_ClickToEnd.yy",},"order":7,},
     {"id":{"name":"Desk","path":"sprites/Desk/Desk.yy",},"order":5,},
     {"id":{"name":"Sprite_Dev","path":"sprites/Sprite_Dev/Sprite_Dev.yy",},"order":0,},
     {"id":{"name":"OfficeWorker3","path":"sprites/OfficeWorker3/OfficeWorker3.yy",},"order":3,},
@@ -99,7 +100,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.1.542",
+    "IDEVersion": "2.3.2.556",
   },
   "resourceVersion": "1.4",
   "name": "Human-Resourceful",

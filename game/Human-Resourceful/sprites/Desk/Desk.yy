@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"255c49e2-fb78-48cd-8bc3-10ef3664de31","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "OfficeSprites",
     "path": "folders/Sprites/OfficeSprites.yy",

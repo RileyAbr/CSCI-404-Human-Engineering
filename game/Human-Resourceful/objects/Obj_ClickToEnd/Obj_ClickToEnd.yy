@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Zone_D",
-    "path": "sprites/Sprite_Zone_D/Sprite_Zone_D.yy",
+    "name": "Sprite_Dev",
+    "path": "sprites/Sprite_Dev/Sprite_Dev.yy",
   },
   "solid": false,
   "visible": false,
@@ -21,18 +21,16 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Zones",
-    "path": "folders/Objects/Zones.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Zone_D",
+  "name": "Obj_ClickToEnd",
   "tags": [],
   "resourceType": "GMObject",
 }
