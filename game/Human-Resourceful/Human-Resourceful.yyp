@@ -92,7 +92,6 @@
     {"folderPath":"folders/Sprites/Tasks/SampleTask.yy","order":1,"resourceVersion":"1.0","name":"SampleTask","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Tasks/SampleTaskB.yy","order":3,"resourceVersion":"1.0","name":"SampleTaskB","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Objects/Tasks/RemoteAccess.yy","order":4,"resourceVersion":"1.0","name":"RemoteAccess","tags":[],"resourceType":"GMFolder",},
-    {"folderPath":"folders/Objects/Tasks/RemoteAccessFraud.yy","order":5,"resourceVersion":"1.0","name":"RemoteAccessFraud","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/OfficeSprites.yy","order":2,"resourceVersion":"1.0","name":"OfficeSprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/HumanSprites.yy","order":4,"resourceVersion":"1.0","name":"HumanSprites","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Sprites/Tasks/CheckEmail.yy","order":2,"resourceVersion":"1.0","name":"CheckEmail","tags":[],"resourceType":"GMFolder",},
