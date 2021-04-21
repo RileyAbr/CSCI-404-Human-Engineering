@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 6,
-  "bbox_top": 0,
-  "bbox_bottom": 8,
+  "bbox_right": 127,
+  "bbox_top": 61,
+  "bbox_bottom": 127,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 7,
-  "height": 9,
+  "width": 128,
+  "height": 128,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"64930987-9656-466a-acbf-933d3c974cc4","path":"sprites/PinPadRed/PinPadRed.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"64930987-9656-466a-acbf-933d3c974cc4","path":"sprites/PinPadRed/PinPadRed.yy",},"LayerId":{"name":"e4973dd5-fc52-4ca9-8d44-cd03edf23a8b","path":"sprites/PinPadRed/PinPadRed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"PinPadRed","path":"sprites/PinPadRed/PinPadRed.yy",},"resourceVersion":"1.0","name":"64930987-9656-466a-acbf-933d3c974cc4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"abcbbc4c-1d94-41b8-b816-0e5b7b0baec5","path":"sprites/sTextBox/sTextBox.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"abcbbc4c-1d94-41b8-b816-0e5b7b0baec5","path":"sprites/sTextBox/sTextBox.yy",},"LayerId":{"name":"90f149d3-0a4e-4491-ba06-32950f6b8999","path":"sprites/sTextBox/sTextBox.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sTextBox","path":"sprites/sTextBox/sTextBox.yy",},"resourceVersion":"1.0","name":"abcbbc4c-1d94-41b8-b816-0e5b7b0baec5","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"PinPadRed","path":"sprites/PinPadRed/PinPadRed.yy",},
+    "spriteId": {"name":"sTextBox","path":"sprites/sTextBox/sTextBox.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"23b7021b-924b-4092-a853-8a2de872e6fd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"64930987-9656-466a-acbf-933d3c974cc4","path":"sprites/PinPadRed/PinPadRed.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"740d932c-6566-4c14-b8ee-96323d556725","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"abcbbc4c-1d94-41b8-b816-0e5b7b0baec5","path":"sprites/sTextBox/sTextBox.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"PinPadRed","path":"sprites/PinPadRed/PinPadRed.yy",},
+    "parent": {"name":"sTextBox","path":"sprites/sTextBox/sTextBox.yy",},
     "resourceVersion": "1.3",
-    "name": "PinPadRed",
+    "name": "sTextBox",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e4973dd5-fc52-4ca9-8d44-cd03edf23a8b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"90f149d3-0a4e-4491-ba06-32950f6b8999","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "OfficeSprites",
-    "path": "folders/Sprites/OfficeSprites.yy",
+    "name": "ReturnBriefcase",
+    "path": "folders/Sprites/Tasks/ReturnBriefcase.yy",
   },
   "resourceVersion": "1.0",
-  "name": "PinPadRed",
+  "name": "sTextBox",
   "tags": [],
   "resourceType": "GMSprite",
 }

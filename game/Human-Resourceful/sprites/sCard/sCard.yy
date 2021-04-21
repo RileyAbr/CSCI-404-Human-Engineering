@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 6,
-  "bbox_top": 0,
-  "bbox_bottom": 8,
+  "bbox_right": 63,
+  "bbox_top": 31,
+  "bbox_bottom": 63,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 7,
-  "height": 9,
+  "width": 64,
+  "height": 64,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"64930987-9656-466a-acbf-933d3c974cc4","path":"sprites/PinPadRed/PinPadRed.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"64930987-9656-466a-acbf-933d3c974cc4","path":"sprites/PinPadRed/PinPadRed.yy",},"LayerId":{"name":"e4973dd5-fc52-4ca9-8d44-cd03edf23a8b","path":"sprites/PinPadRed/PinPadRed.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"PinPadRed","path":"sprites/PinPadRed/PinPadRed.yy",},"resourceVersion":"1.0","name":"64930987-9656-466a-acbf-933d3c974cc4","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"460e97f1-1065-46f8-999b-5449185f4ed2","path":"sprites/sCard/sCard.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"460e97f1-1065-46f8-999b-5449185f4ed2","path":"sprites/sCard/sCard.yy",},"LayerId":{"name":"db82050e-f1d7-4f19-853a-6b93a15e2dc1","path":"sprites/sCard/sCard.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sCard","path":"sprites/sCard/sCard.yy",},"resourceVersion":"1.0","name":"460e97f1-1065-46f8-999b-5449185f4ed2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"PinPadRed","path":"sprites/PinPadRed/PinPadRed.yy",},
+    "spriteId": {"name":"sCard","path":"sprites/sCard/sCard.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"23b7021b-924b-4092-a853-8a2de872e6fd","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"64930987-9656-466a-acbf-933d3c974cc4","path":"sprites/PinPadRed/PinPadRed.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"765b252c-4e68-4bed-901d-555a69fcf884","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"460e97f1-1065-46f8-999b-5449185f4ed2","path":"sprites/sCard/sCard.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,21 +58,21 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"PinPadRed","path":"sprites/PinPadRed/PinPadRed.yy",},
+    "parent": {"name":"sCard","path":"sprites/sCard/sCard.yy",},
     "resourceVersion": "1.3",
-    "name": "PinPadRed",
+    "name": "sCard",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"e4973dd5-fc52-4ca9-8d44-cd03edf23a8b","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"db82050e-f1d7-4f19-853a-6b93a15e2dc1","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "OfficeSprites",
-    "path": "folders/Sprites/OfficeSprites.yy",
+    "name": "ScanIn",
+    "path": "folders/Sprites/Tasks/ScanIn.yy",
   },
   "resourceVersion": "1.0",
-  "name": "PinPadRed",
+  "name": "sCard",
   "tags": [],
   "resourceType": "GMSprite",
 }
