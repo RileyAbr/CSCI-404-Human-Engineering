@@ -1,3 +1,3 @@
-global.currentRunScore += 20;
+global.currentRunScore += 00;
 
 instance_destroy();
