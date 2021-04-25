@@ -128,7 +128,7 @@
     "spriteId": {"name":"Clock","path":"sprites/Clock/Clock.yy",},
     "timeUnits": 1,
     "playback": 1,
-    "playbackSpeed": 0.1,
+    "playbackSpeed": 0.1833,
     "playbackSpeedType": 0,
     "autoRecord": true,
     "volume": 1.0,
@@ -195,7 +195,6 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c30d91cd-4c99-4322-b806-352142cc0d80","tags":[],"resourceType":"GMImageLayer",},
   ],
-  "nineSlice": null,
   "parent": {
     "name": "OfficeSprites",
     "path": "folders/Sprites/OfficeSprites.yy",
