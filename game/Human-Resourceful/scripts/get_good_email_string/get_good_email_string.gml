@@ -1,4 +1,4 @@
-/// @function			get_good_email_string()		
+/// @function	get_good_email_string()		
 
 global.good_messages = [
 	"Lunch at O'Connell's?",
