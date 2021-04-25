@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_RemoteAccess24",
-    "path": "sprites/Sprite_RemoteAccess24/Sprite_RemoteAccess24.yy",
+    "name": "Sprite_RemoteAccess_AcceptButton",
+    "path": "sprites/Sprite_RemoteAccess_AcceptButton/Sprite_RemoteAccess_AcceptButton.yy",
   },
   "solid": false,
   "visible": true,
@@ -21,8 +21,8 @@
   "physicsKinematic": false,
   "physicsShapePoints": [],
   "eventList": [
+    {"isDnD":false,"eventNum":4,"eventType":6,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
@@ -31,7 +31,7 @@
     "path": "folders/Objects/Tasks/RemoteAccess.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_RemoteAccess",
+  "name": "Obj_RemoteAccess_Accept",
   "tags": [],
   "resourceType": "GMObject",
 }

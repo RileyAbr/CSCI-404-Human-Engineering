@@ -1,5 +1,6 @@
 /// @function	get_random_userID()	
 function get_random_userID(){
+	randomize();
 	var characters = "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	var userID = "";
 	
