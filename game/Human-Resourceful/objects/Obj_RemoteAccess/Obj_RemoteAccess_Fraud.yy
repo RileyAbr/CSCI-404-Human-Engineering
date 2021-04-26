@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "Sprite_RemoteAccess24",
+    "path": "sprites/Sprite_RemoteAccess24/Sprite_RemoteAccess24.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -17,15 +20,18 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "CheckEmail",
-    "path": "folders/Objects/Tasks/CheckEmail.yy",
+    "name": "RemoteAccess",
+    "path": "folders/Objects/Tasks/RemoteAccess.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Obj_Email",
+  "name": "Obj_RemoteAccess_Fraud",
   "tags": [],
   "resourceType": "GMObject",
 }
