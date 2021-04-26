@@ -8,5 +8,4 @@ draw_text(x + (sprite_width / 2), y + 20, "REMOTE ACCESS REQUESTED");
 
 draw_set_font(Font_Menu_Body);
 
-draw_text(x + (sprite_width / 2), y + 60, "USER ID: " + temp_remote_access_id);
-draw_text(x + (sprite_width / 2), y + 80, "HOST ID: " + global.remote_access_user_id);
+draw_text(x + (sprite_width / 2), y + 60, "USER ID: " + global.remote_access_user_id);

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Dev",
-    "path": "sprites/Sprite_Dev/Sprite_Dev.yy",
+    "name": "Sprite_RemoteAccess_Note",
+    "path": "sprites/Sprite_RemoteAccess_Note/Sprite_RemoteAccess_Note.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,7 +20,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {

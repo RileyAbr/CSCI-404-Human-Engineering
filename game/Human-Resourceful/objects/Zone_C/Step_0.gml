@@ -2,8 +2,10 @@
 if(readyForTask) {
 	// Set the list of randomized tasks
 	var selectedTask = choose(
-	//Task_CheckEmail, 
-	Task_RemoteAccess); // ADD MORE TASKS HERE
+	Task_CheckEmail, 
+	Task_RemoteAccess
+	// ADD MORE TASKS HERE
+	); 
 	
 	createdTask = instance_create_layer(x, y, "Instances", selectedTask);
 	

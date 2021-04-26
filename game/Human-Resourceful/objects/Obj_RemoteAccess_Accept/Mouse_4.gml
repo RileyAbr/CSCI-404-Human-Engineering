@@ -1,13 +1,20 @@
-/*
-instance_exists(first_email) {
+if(instance_exists(Obj_RemoteAccess)) {
+	instance_destroy();
 	
+	with(Obj_RemoteAccess) {
+		instance_destroy();	
+	}
+	
+	global.currentRunScore += 50;
 }
-*/
 
-global.currentRunScore += 10;
+if(instance_exists(Obj_RemoteAccess_Fraud)) {
 
-instance_destroy();
+	instance_destroy();
 
-with(Obj_RemoteAccess) {
-	instance_destroy();	
+	with(Obj_RemoteAccess_Fraud) {
+		instance_destroy();	
+	}
+	
+	global.currentRunScore -= 30;
 }
