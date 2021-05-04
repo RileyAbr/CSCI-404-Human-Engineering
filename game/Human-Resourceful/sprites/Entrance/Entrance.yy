@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 82,
+  "bbox_right": 580,
   "bbox_top": 0,
-  "bbox_bottom": 60,
+  "bbox_bottom": 426,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 83,
-  "height": 61,
+  "width": 581,
+  "height": 427,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"eccec866-5bf4-4dd8-92ab-9a3cbe7b60a8","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "OfficeSprites",
     "path": "folders/Sprites/OfficeSprites.yy",
