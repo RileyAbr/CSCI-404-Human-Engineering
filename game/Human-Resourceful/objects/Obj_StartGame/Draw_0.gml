@@ -2,7 +2,7 @@ draw_set_color(c_white);
 draw_set_halign(fa_center);
 
 draw_set_font(Font_Menu_Heading);
-draw_text(room_width / 2, 40, "CSCI 404: Social Engineering Simulation");
+draw_text(room_width / 2, 40, "Social Engineering Simulation");
 
 draw_set_font(Font_Menu_Body);
 draw_text(room_width / 2, 200, "This simulation is designed to test skills in identifying");
