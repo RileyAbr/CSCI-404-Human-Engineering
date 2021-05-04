@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"7bfe3c46-7685-4060-87e9-092d90fa7229","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "ReturnBriefcase",
     "path": "folders/Sprites/Tasks/ReturnBriefcase.yy",

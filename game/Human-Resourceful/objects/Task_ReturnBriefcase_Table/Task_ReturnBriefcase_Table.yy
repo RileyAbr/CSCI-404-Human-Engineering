@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "Sprite_Zone_E",
-    "path": "sprites/Sprite_Zone_E/Sprite_Zone_E.yy",
+    "name": "Sprite_Zone_A",
+    "path": "sprites/Sprite_Zone_A/Sprite_Zone_A.yy",
   },
   "solid": false,
   "visible": false,
@@ -22,17 +22,15 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Zones",
-    "path": "folders/Objects/Zones.yy",
+    "name": "ReturnBriefcase_Table",
+    "path": "folders/Objects/Tasks/ReturnBriefcase_Table.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Zone_E",
+  "name": "Task_ReturnBriefcase_Table",
   "tags": [],
   "resourceType": "GMObject",
 }

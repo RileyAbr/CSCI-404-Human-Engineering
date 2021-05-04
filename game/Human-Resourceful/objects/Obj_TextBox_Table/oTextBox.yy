@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "Sprite_Zone_E",
-    "path": "sprites/Sprite_Zone_E/Sprite_Zone_E.yy",
+    "name": "sTextBox",
+    "path": "sprites/sTextBox/sTextBox.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -22,17 +22,17 @@
   "physicsShapePoints": [],
   "eventList": [
     {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+    {"isDnD":false,"eventNum":0,"eventType":8,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
     {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":2,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
   ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Zones",
-    "path": "folders/Objects/Zones.yy",
+    "name": "ReturnBriefcase",
+    "path": "folders/Objects/Tasks/ReturnBriefcase.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Zone_E",
+  "name": "oTextBox",
   "tags": [],
   "resourceType": "GMObject",
 }

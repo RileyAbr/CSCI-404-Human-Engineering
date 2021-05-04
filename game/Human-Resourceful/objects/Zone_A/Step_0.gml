@@ -1,9 +1,12 @@
 // When alarm[0] has finished and the Zone is awaiting a new task
 if(readyForTask) {
 	// Set the list of randomized tasks
-	// var selectedTask = choose(Obj_Notes); // ADD MORE TASKS HERE
+	var selectedTask = choose(
+	Task_ReturnBriefcase_Table
+	//Obj_Notes
+	); // ADD MORE TASKS HERE
 	
-	// createdTask = instance_create_layer(x, y, "Instances", selectedTask);
+	createdTask = instance_create_layer(x, y, "Instances", selectedTask);
 	
 	readyForTask = false;
 }
