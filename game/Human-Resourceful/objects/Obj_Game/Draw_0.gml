@@ -1,5 +1,5 @@
 draw_set_color(c_black);
-draw_set_font(-1);
+draw_set_font(Font_Default);
 draw_set_halign(fa_left);
 
 var minutes = string(floor((alarm[0] / room_speed) / 60));

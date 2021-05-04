@@ -56,6 +56,7 @@
     {"id":{"name":"Obj_SampleTaskB","path":"objects/Obj_SampleTaskB/Obj_SampleTaskB.yy",},"order":2,},
     {"id":{"name":"oYes","path":"objects/oYes/oYes.yy",},"order":3,},
     {"id":{"name":"get_evil_email_string","path":"scripts/get_evil_email_string/get_evil_email_string.yy",},"order":1,},
+    {"id":{"name":"Font_Default","path":"fonts/Font_Default/Font_Default.yy",},"order":7,},
     {"id":{"name":"Zone_A","path":"objects/Zone_A/Zone_A.yy",},"order":0,},
     {"id":{"name":"Obj_Trash_Can","path":"objects/Obj_Trash_Can/Obj_Trash_Can.yy",},"order":1,},
     {"id":{"name":"Monitor","path":"sprites/Monitor/Monitor.yy",},"order":6,},
